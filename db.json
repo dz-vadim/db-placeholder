@@ -1,0 +1,76 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Купити молоко",
+      "createdDate": "December 28, 2023",
+      "category": "Task",
+      "content": "Молоко 11/30/2023",
+      "dates": "11/30/2023",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "name": "Відвідати лікаря",
+      "createdDate": "December 28, 2023",
+      "category": "Task",
+      "content": "Консультація терапевта",
+      "dates": "",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "name": "Зробити уроки",
+      "createdDate": "December 28, 2023",
+      "category": "Task",
+      "content": "Математика, хімія, українська мова",
+      "dates": "",
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "name": "Зробити покупки на тиждень",
+      "createdDate": "December 28, 2023",
+      "category": "Idea",
+      "content": "Хліб, овочі, фрукти, м'ясо, молочні продукти",
+      "dates": "",
+      "status": "complete"
+    },
+    {
+      "id": 6,
+      "name": "Зустрітися з друзями",
+      "createdDate": "December 28, 2023",
+      "category": "Task",
+      "content": "Кава в кафе",
+      "dates": "",
+      "status": "active"
+    },
+    {
+      "name": "Зробити покупки на тиждень",
+      "createdDate": "January 2, 2024",
+      "category": "Task",
+      "content": "Хліб, овочі, фрукти, м'ясо, молочні продукти",
+      "dates": "",
+      "status": "active",
+      "id": 68
+    },
+    {
+      "name": "Зустрітися з друзями",
+      "createdDate": "January 2, 2024",
+      "category": "Idea",
+      "content": "Кава в кафе",
+      "dates": "",
+      "status": "complete",
+      "id": 69
+    },
+    {
+      "name": "Прибратися в квартирі",
+      "createdDate": "January 2, 2024",
+      "category": "Task",
+      "content": "Покласти речі на місце, помити посуд, винести сміття",
+      "dates": "",
+      "status": "active",
+      "id": 70
+    }
+  ]
+}
